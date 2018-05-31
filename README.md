@@ -78,7 +78,7 @@ $ rake neo4j:migrate NEO4J_URL=[YOUR NEO4J URL]
 or
 $ rake neo4j:migrate NEO4J_URL=http://user:password@host:port
 
-# e.g.: Execute the below when testing setup. 
+# e.g.: Execute the below when testing setup.
 $ rake neo4j:migrate NEO4J_URL=http://localhost:7475
 ```
 
